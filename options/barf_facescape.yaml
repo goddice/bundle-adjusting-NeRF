@@ -1,0 +1,6 @@
+_parent_: options/barf_llff.yaml
+
+data:                                                       # data options
+    dataset: facescape                                      # dataset name
+    scene: people_1                                         # scene name
+    image_size: [720,480]                                   # input image sizes [height,width]
